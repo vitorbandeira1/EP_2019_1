@@ -1,0 +1,145 @@
+{
+	"inicio": {
+		"titulo": "fumodromo",
+		"descricao": "Voce acabou de descer do Uber, o que fazer agora?",
+		"opcoes": {
+			"predio 2": " Tentar achar o professor no predio novo",
+			"entrada p1": " Adentrar o saguao de entrada"
+		}
+	},
+	"predio 2": {
+		"titulo": "Entrada predio novo ",
+		"descricao": "Ops... o predio esta fechado!",
+		"opcoes": {
+			"entrada p1": "Adentrar o saguao de entrada do predio 1"
+		}
+	},
+	"entrada p1": {
+		"titulo": "Saguao de entrada do Inpser",
+		"descricao": "Voce como brilhante e preguicoso aluno que e resolve ir na sala dos professores em busca de Raul.",
+		"opcoes": {
+			"elevador": "vale a pena gastar seus minutos preciosos?",
+			"escadas": "pode ser mais rapido, mas perigoso, tem certeza?"
+		}
+	},
+	"escadas": {
+		"titulo": "escadaria do terror",
+		"descricao": "Voce acaba de fazer uma escolha errada, encontrou um veterano em semana de prova",
+		"opcoes": {
+			"lutar": "combate com um veterano nervoso"
+
+		}
+	},
+	"lutar": {
+		"titulo": "Voce conseguiu!",
+		"descricao": "Agora que voce conseguiu vencer a batalha, continue a busca pelo Raul",
+		"opcoes": {
+			"sala dos professores": "Ir ate a sala dos professores"
+
+		}
+	},
+
+	"elevador": {
+		"titulo": "capsula da velocidade",
+		"descricao": "Voce acabou de entrar no elevador, e encontrou o doce preferido do Raul, que agora esta no seu inventario porque pode ser util no futuro!",
+		"opcoes": {
+			"sala dos professores": " Ir ate a sala dos professores"
+		}
+	},
+	"sala dos professores": {
+		"titulo": "sala onde habitam os mestres",
+		"descricao": "Voce chegou na sala dos professores, mas o Raul nao esta aqui. \n No lugar ha uma carta de um virus maligno dizendo que sequestrou ele. \n Para salva-lo encontre os tres pen drives que estao espalhados pelo Insper, \n e leve-os ate a sala de supercomputadores que esta localizada no predio 2.",
+		"opcoes": {
+			"biblioteca": "Ir para a biblioteca e tentar pedir ajuda",
+			"nerd box": " ir para a nerd box"
+		}
+	},
+	"nerd box": {
+		"titulo": "Sala do silencio profundo",
+		"descricao": " Voce chegou na sala e descobriu que estava vazia! \n que perda de tempo!",
+		"opcoes": {
+			"biblioteca": " ir para a biblioteca",
+			" ": " "
+		}
+	},
+	"biblioteca": {
+		"titulo": "Sala da enrolacao",
+		"descricao": "Voce esta na biblioteca e tera que jogar um jogo de cartas com seu veterano",
+		"opcoes": {
+			"jogar": "jogar com o veterano"
+		}
+	},
+	"jogar": {
+		"titulo": "21",
+		"descricao": "O veterano lhe parabenizou pela boa partida",
+		"opcoes": {
+			"help desk": "eles sempre ajudam nao e mesmo?",
+			"sala de aula": "quem sabe nao esta com algum professor "
+		}
+	},
+
+	"help desk": {
+		"titulo": "hospital do pc",
+		"descricao": "Que sorte!, o primeiro dos pen drives estava dando sopa, \n ele ja esta guradado no seu inventario.",
+		"opcoes": {
+			"sala de aula": "ir para a sala de aula",
+			"sala do wii": " ir para sala do wii"
+		}
+	},
+	"sala de aula": {
+		"titulo": "Sala Sebastiao Camargo",
+		"descricao": "Voce chegou na sala de aula, e atrapalhou o pelicano!",
+		"opcoes": {
+			"help desk": "continue procurando o pen drive",
+			"biblioteca": " voltar na biblioteca"
+		}
+	},
+	"sala do wii": {
+		"titulo": "toca dos veteranos",
+		"descricao": " Voce chegou na sala e descobriu que tem outro pen drive aqui, \n mas, tera que batalhar com o veterano no quizz",
+		"opcoes": {
+			"quizz": " em busca do ultimo pen drive"
+
+
+		}
+	},
+	"quizz": {
+		"titulo": "Espero que tenha gostado do quizz!",
+		"descricao": "Agora que voce ja fez o quizz, um pen drive sera guardado no seu inventario",
+		"opcoes": {
+			"quadra": " esta chegando a batalha final"
+
+
+		}
+	},
+	"quadra": {
+		"titulo": "ringue de batalha",
+		"descricao": "Esta na hora da sua batalha final \n para conseguir o ultimo dos pen drives, voce devera jogar basquete com um monstro da atletica",
+		"opcoes": {
+			"jogar a partida": " ganhar honestamente",
+			"fuga": " pegar o pen drive sem que o veterano perceba"
+
+		}
+	},
+	"jogar a partida": {
+		"titulo": "let's go.",
+		"descricao": "Voce jogou mais uma partida e ganhou o ultimo dos pen drives",
+		"opcoes": {
+			"sala dos supercomputadores": "tentar salvar o Raul"
+
+		}
+	},
+	"fuga": {
+		"titulo": "corree!!!",
+		"descricao": "Voce conseguiu o pen drive!",
+		"opcoes": {
+			"sala dos supercomputadores": "tentar salvar o Raul"
+
+		}
+	},
+	"sala dos supercomputadores": {
+		"titulo": "o encontro final",
+		"descricao": " Parabens! Voce concectou os tres pen drives, salvando o Raul, \n e ainda deu o doce do elevador pra ele! \n Como forma de agradecimento o Raul decidiu te dar um adiantamento... Que sorte hein?",
+		"opcoes": {}
+	}
+}
